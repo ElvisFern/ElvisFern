@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on AWS Developer Certification and Master's in Data Science
+- 🌱 I’m currently learning how to be a better Data Engineer
+- 👯 I’m looking to collaborate on any AI integration or creation projects.
+- 🤔 I’m looking for help with anything related to AI and Deep Learning.
 <!--
 **ElvisFern/ElvisFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
